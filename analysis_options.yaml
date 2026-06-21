@@ -1,0 +1,7 @@
+# Static analysis configuration. See https://dart.dev/lints.
+include: package:flutter_lints/flutter.yaml
+
+# Add project-specific overrides below.
+# linter:
+#   rules:
+#     public_member_api_docs: true

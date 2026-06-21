@@ -1,0 +1,29 @@
+name: phone_number_input
+description: "A searchable phone number input field with a country code picker. Supports multiple field styles, selector surfaces, validation states, and full light/dark theming."
+version: 0.0.1
+
+# Fill these in before publishing — pub.dev awards points for a repository link.
+# repository: https://github.com/<your-user>/phone_number_input
+# homepage: https://github.com/<your-user>/phone_number_input
+# issue_tracker: https://github.com/<your-user>/phone_number_input/issues
+
+topics:
+  - phone
+  - country
+  - input
+  - picker
+  - form
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # flutter_lints 6.x is available but requires Dart >=3.8.
+  flutter_lints: ^5.0.0
