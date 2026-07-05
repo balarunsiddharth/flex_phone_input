@@ -2,9 +2,9 @@ name: flex_phone_input
 description: "A searchable phone number input field with a country code picker. Supports multiple field styles, selector surfaces, validation states, and full light/dark theming."
 version: 1.0.0
 
-repository: https://github.com/balarunsiddharth/phone_number_input
-homepage: https://github.com/balarunsiddharth/phone_number_input
-issue_tracker: https://github.com/balarunsiddharth/phone_number_input/issues
+repository: https://github.com/balarunsiddharth/flex_phone_input
+homepage: https://github.com/balarunsiddharth/flex_phone_input
+issue_tracker: https://github.com/balarunsiddharth/flex_phone_input/issues
 
 topics:
   - phone
