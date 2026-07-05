@@ -1,4 +1,4 @@
-# phone_number_input
+# phone_country_picker
 
 A searchable **phone number input** field with an integrated **country code picker** for Flutter.
 
@@ -8,17 +8,15 @@ A searchable **phone number input** field with an integrated **country code pick
 - 🪟 **Four selector surfaces** — bottom sheet, dialog, full-screen page, and an inline dropdown, all sharing one searchable list.
 - ✅ **Validation** — integrates with `Form`, or drive the state directly.
 
-> Status: early release (`0.0.x`). The API may change before `1.0.0`.
-
 ## Installation
 
 ```yaml
 dependencies:
-  phone_number_input: ^0.0.1
+  phone_country_picker: ^1.0.0
 ```
 
 ```dart
-import 'package:phone_number_input/phone_number_input.dart';
+import 'package:phone_country_picker/phone_country_picker.dart';
 ```
 
 ## Quick start

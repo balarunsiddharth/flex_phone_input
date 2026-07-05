@@ -1,5 +1,5 @@
-name: phone_number_input_example
-description: "Demonstrates the phone_number_input package: theming, country control, variants, selector modes, and validation."
+name: phone_country_picker_example
+description: "Demonstrates the phone_country_picker package: theming, country control, variants, selector modes, and validation."
 publish_to: "none"
 version: 1.0.0+1
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  phone_number_input:
+  phone_country_picker:
     path: ../
 
 dev_dependencies:
