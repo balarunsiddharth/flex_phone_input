@@ -2,10 +2,9 @@ name: phone_number_input
 description: "A searchable phone number input field with a country code picker. Supports multiple field styles, selector surfaces, validation states, and full light/dark theming."
 version: 0.0.1
 
-# Fill these in before publishing — pub.dev awards points for a repository link.
-# repository: https://github.com/<your-user>/phone_number_input
-# homepage: https://github.com/<your-user>/phone_number_input
-# issue_tracker: https://github.com/<your-user>/phone_number_input/issues
+repository: https://github.com/balarunsiddharth/phone_number_input
+homepage: https://github.com/balarunsiddharth/phone_number_input
+issue_tracker: https://github.com/balarunsiddharth/phone_number_input/issues
 
 topics:
   - phone
