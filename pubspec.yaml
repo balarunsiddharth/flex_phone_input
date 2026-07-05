@@ -1,6 +1,6 @@
 name: flex_phone_input
 description: "A searchable phone number input field with a country code picker. Supports multiple field styles, selector surfaces, validation states, and full light/dark theming."
-version: 1.0.0
+version: 1.0.1
 
 repository: https://github.com/balarunsiddharth/flex_phone_input
 homepage: https://github.com/balarunsiddharth/flex_phone_input
@@ -12,6 +12,23 @@ topics:
   - input
   - picker
   - form
+
+# Screenshots shown on the pub.dev package page. The first is the thumbnail.
+screenshots:
+  - description: "Ten field styles with an integrated country selector (light theme)."
+    path: screenshots/01_field_styles_light.png
+  - description: "The same field styles rendered in dark theme."
+    path: screenshots/02_field_styles_dark.png
+  - description: "Searchable country selector with pinned popular countries."
+    path: screenshots/03_country_picker.png
+  - description: "Live search filters countries by name or dial code."
+    path: screenshots/04_search.png
+  - description: "Inline dropdown selector anchored beneath the field."
+    path: screenshots/05_inline_dropdown.png
+  - description: "Validation states: a verified number and an error."
+    path: screenshots/06_validation.png
+  - description: "Flag-only and flag-chip field variants."
+    path: screenshots/07_flag_variants.png
 
 environment:
   sdk: ">=3.5.0 <4.0.0"

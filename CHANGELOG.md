@@ -1,3 +1,8 @@
+## 1.0.1
+
+- Add screenshots to the pub.dev package page.
+- Point repository / homepage / issue tracker links at the renamed repository.
+
 ## 1.0.0
 
 Initial release.
